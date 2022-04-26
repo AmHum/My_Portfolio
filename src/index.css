@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-family: "Montserrat";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  code {
+    font-family: "Montserrat",
+      monospace;
+  }
+  
+  p, h1, h2, h3, h4, h5, span, label, input, button, a, li {
+    font-family: "Montserrat";
+  }
+  
+  nav {
+    background-color: rgb(92,103,132, 16%);
+  }
+  
+  .navText, a, a:visited{
+    color: #25157f;
+    font-size: 20px;
+  }
+  
+  .navTextName {
+    color: #25157F;
+    font-size: 30px;
+    font-style: oblique;
+  }
+  
+  .button-color{
+    background-color: #25157F;
+  }
+  
+  p {
+    font-size: 18px;
+  }
+  
+  .icons, .icons:visited {
+    color: #5C6784;
+  }
